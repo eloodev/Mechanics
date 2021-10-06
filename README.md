@@ -3,7 +3,7 @@
 --------
 
 <p align="center">
-  <img src="https://i.ibb.co/RhhPzKY/logo-1.png" alt="">
+  <img src="https://i.ibb.co/ZfCy6Sp/logo.png" alt="">
 </p>
 
 <p align="center">
