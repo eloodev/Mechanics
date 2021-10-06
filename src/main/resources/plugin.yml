@@ -1,0 +1,6 @@
+name: Mechanics
+version: '${project.version}'
+main: dev.eloo.Mechanics
+api-version: 1.17
+load: STARTUP
+authors: [ eloo95 ]
