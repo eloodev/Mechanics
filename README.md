@@ -1,7 +1,3 @@
-[![Build Status](https://app.travis-ci.com/eloo95/Mechanix.svg?token=ZqCyHqhNqSAQcUrUnnbo&branch=main)](https://app.travis-ci.com/eloo95/Mechanix.svg?token=ZqCyHqhNqSAQcUrUnnbo&branch=main)
-
---------
-
 <p align="center">
   <img src="https://i.ibb.co/dD5Wwyx/logo-1.png" alt="">
 </p>
@@ -10,9 +6,7 @@
   <b><i>A minecraft bukkit/spigot/paper plugin that allows you to automate anything you can imagine.</i></b>
 </p>
 
---------
-
-## About us!
+# About us!
 We did it, automation comes after Minecraft. Through Mechanics you get the industrial revulution! From the grain of wheat away to the furnace for stones everything is fully automated. See it for yourself!
 
 
@@ -25,11 +19,9 @@ Be sure that you have the latest version on the Minecraft server.
 - Finally, restart the server and have a lot of fun!
 
 ## Do you need help? Check out our Wiki
-<p>
-    In our wiki you can find everything about Mechanix, if you ever need help from a human 
-    contact me via Discord
-</p>
+In our wiki you can find everything about Mechanix, if you ever need help from a human
+contact me via Discord
 <ul>
-    <li><a href="https://github.com/eloo95/Mechanix/wiki" target="_blank">Wiki</a></li>
+    <li><a href="https://github.com/eloo95/Mechanics/wiki" target="_blank">Wiki</a></li>
     <li><a href="https://discord.gg/ZGfrQ5VuPx" target="_blank">Discord</a></li>
 </ul>
