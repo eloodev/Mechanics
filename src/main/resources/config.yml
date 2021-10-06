@@ -1,0 +1,60 @@
+########################################################################################################################
+# Do not change or delete the file version!
+version: '1.0'
+########################################################################################################################
+# ENABLE/DISABLE MECHANICS
+enabled-mechanics:
+  - breaker
+  - placer
+  - trasher
+  - compactor
+  - harvester
+disabled-mechanics:
+  - ''
+########################################################################################################################
+# MAIN PLUGIN SETTINGS
+server-name: 'Hauptwelt'
+debug-mode: false
+debug-mode-file-logging: false
+enable-access-check: false
+check-worldguard-flags: false
+check-griefprevention-claims: false
+mysql-data:
+  port: default
+  hostname: 'localhost'
+  username: ''
+  password: ''
+  database: ''
+########################################################################################################################
+# MAIN MECHANIC SETTINGS
+tool: WOODEN_HOE
+price: 300
+apply-durability: true
+enable-hologram: true
+default_hologram_visible: false
+protect_mechanics: true
+enableMechanicItem: true
+enable_log: true
+itemlore:
+  displayname: 'Mechanic'
+  glow: true
+  bindonowner: true
+  lore:
+    - '#E7AF3A----------------------'
+    - '#DADADABesitzer: #C70039%player%'
+    - '#DADADA§k,%id%'
+    - '#E7AF3A----------------------'
+#######################################################################################################################
+# COMPACTOR SETTINGS
+compactor:
+  9:
+    GOLD_INGOT: GOLD_BLOCK
+    COAL: COAL_BLOCK
+    DRIED_KELP: DRIED_KELP_BLOCK
+    GOLD_NUGGET: GOLD_INGOT
+    IRON_INGOT: IRON_BLOCK
+    IRON_NUGGET: IRON_INGOT
+    REDSTONE: REDSTONE_BLOCK
+    EMERALD: EMERALD_BLOCK
+    DIAMOND: DIAMOND_BLOCK
+    WHEAT: HAY_BLOCK

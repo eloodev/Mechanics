@@ -1,0 +1,29 @@
+########################################################################################################################
+# Do not change or remove the file version!
+version: '1.0'
+########################################################################################################################
+# PREFIXES
+PREFIX_DEFAULT: '§f(§3§l$§f) '
+PREFIX_WARN: '§f(§6§l!§f) §7'
+PREFIX_ERROR: '§f(§c§l!!§f) §7'
+########################################################################################################################
+# SYSTEM MESSAGES
+NO_CONSOLE: 'This action or command is not allowed for consoles.'
+ERROR_NOTIFY: 'Ein Fehler ist aufgetreten bitte melde dich bei einem Admin.'
+ERROR_NOTIFY_ID: 'Gebe die folgende ID beim Support bekannt! ID: %error_id%'
+NO_PERMISSION: 'Du hast keine Berechtigung für diesen Befehl.'
+NO_MONEY: 'Du hast nicht genug Geld für diese Aktion.'
+########################################################################################################################
+# MECHANIC MESSAGES
+#
+# Placeholders: %player%, %mechanicname%
+#
+MECHANIC_NO_ACCESS: 'Du darfst diese Mechanic nicht öffnen oder bearbeiten.'
+MECHANIC_CREATED: 'Mechanic wurde erfolgreich erstellt.'
+MECHANIC_CREATED_INFO: 'Mit Rechtsklick änderst du immer wieder die Mechanik.'
+MECHANIC_CREATED_OTHER: 'Du hast die Mechanik von %player% platziert.'
+MECHANIC_DESTROYED: 'Du hast die Mechanik abgebaut.'
+MECHANIC_DESTROYED_OTHER: 'Du hast die Mechanik von %player% abgebaut!'
+MECHANIC_DESTROYED_ITEM: 'Du hast die Mechanic als Item erhalten du kannst sie jederzeit wieder platzieren.'
+MECHANIC_CHANGE: 'Mechanik: %mechanicname%'
+MECHANIC_CHANGE_OTHER: 'Mechanik von %player%: %mechanicname%'

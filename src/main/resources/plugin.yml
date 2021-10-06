@@ -1,6 +1,22 @@
+api-version: 1.16
+authors:
+  - eloo95
+commands:
+  amechanics:
+    aliases:
+      - amech
+  mechanics:
+    aliases:
+      - mech
+  es:
+main: dev.eloo.mechanics.Mechanics
 name: Mechanics
-version: '${project.version}'
-main: dev.eloo.Mechanics
-api-version: 1.17
+depend:
+  - Vault
+  - InventoryMenuManager
+  - PluginUtils
+softdepend:
+  - GriefPrevention
+  - HolographicDisplays
+version: ${project.version}
 load: STARTUP
-authors: [ eloo95 ]
